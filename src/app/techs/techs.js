@@ -2,7 +2,6 @@ import {Component} from '@angular/core';
 import {Http, HTTP_PROVIDERS} from '@angular/http';
 import 'rxjs/Rx';
 import {Tech} from './tech.js';
-import {iviz} from 'iviz';
 
 @Component({
   selector: 'Techs',
